@@ -1,0 +1,26 @@
+{
+  "name": "defi-tvl-dexscreener-liquidity-whale-tracker",
+  "version": "2.0.0",
+  "description": "Quantitative Web3 & DeFi intelligence toolkit: tracks protocol TVL, 1d/7d/30d capital inflows, Mcap/TVL ratios, and on-chain DEX liquidity metrics.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "defi-tvl-dexscreener-liquidity-whale-tracker": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "defi",
+    "dexscreener",
+    "defillama",
+    "crypto-analytics",
+    "whale-tracker",
+    "onchain-data",
+    "yield-farming",
+    "web3-tools",
+    "tvl-tracker",
+    "quant-trading"
+  ],
+  "license": "MIT"
+}
